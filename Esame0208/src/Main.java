@@ -1,5 +1,3 @@
-package com.example.biblioteca;
-
 import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.List;

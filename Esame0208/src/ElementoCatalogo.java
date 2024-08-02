@@ -1,5 +1,3 @@
-package com.example.biblioteca;
-
 import java.io.Serializable;
 
 public abstract class ElementoCatalogo implements Serializable {

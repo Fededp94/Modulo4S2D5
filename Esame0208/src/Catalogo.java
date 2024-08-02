@@ -1,5 +1,3 @@
-package com.example.biblioteca;
-
 import java.io.*;
 import java.util.*;
 import java.util.stream.Collectors;
